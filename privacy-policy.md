@@ -13,7 +13,7 @@ Security
 As the app does not collect any data, there is no need for specific measures from the app to secure user data. However, we recommend securing your device with a password or using local security features to protect your device.
 
 Compliance Adjustments The privacy policy includes both the app name and developer name:
-App Name: TalkWrite Developer
+App Name: آيات Developer
 Developer Name: Alaa Taha Hassan 
 
 Changes to Privacy Policy
