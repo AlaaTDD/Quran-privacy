@@ -17,7 +17,7 @@ App Name: آيات Developer
 Developer Name: Alaa Taha Hassan 
 
 Changes to Privacy Policy
-This policy is effective as of 2025-01-12 and will remain in effect, unless future changes are published immediately.
+This policy is effective as of 2025-04-12 and will remain in effect, unless future changes are published immediately.
 
 Contact Information
 For any inquiries about the privacy policy, you can contact us via email: tahaalaa605@gmail.com.
