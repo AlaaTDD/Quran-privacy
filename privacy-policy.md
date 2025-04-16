@@ -21,7 +21,7 @@ Developer Name: Alaa Taha Hassan
 This privacy policy is effective as of April 12, 2025. We may update this policy from time to time, and any changes will be published immediately. Please review the policy periodically for any updates.
 
 6. Contact Information
-For any inquiries about the privacy policy or concerns, you can contact us via email: tahaalaa605@gmail.com.
+For any inquiries about the privacy policy or concerns, you can contact us via email: alaattaha608@gmail.com.
 
 7. License Information
 The app uses the MIT License for the Quran Library, which is an open-source software. Below is the MIT License for the Quran library used in this app:
